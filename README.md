@@ -1,2 +1,2 @@
 # my-json-server
-Mock API
+Mock API based on [My Json Server](https://my-json-server.typicode.com/)
